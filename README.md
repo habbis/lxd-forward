@@ -1,7 +1,7 @@
 # lxd-forward
 A script created to portforward lxc containers managed by lxd. This script is created by [sokkalf](https://github.com/sokkalf)
 
-Link to blogpost of ussage by sokkalf https://ugle-z.no/articles/2016-09/simplifying-port-forwarding-with-LXD.html?utm_source=pocket_mylist
+Link to blogpost of ussage by sokkalf [post](https://ugle-z.no/articles/2016-09/simplifying-port-forwarding-with-LXD.html?utm_source=pocket_mylist)
 
 
 Adding a rule
