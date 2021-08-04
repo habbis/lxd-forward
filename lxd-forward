@@ -6,7 +6,7 @@ host_port=$4
 interface=$5
 
 function usage() {
-  echo "Usage: $(basename ${0}) [add|list|delete|help] [container] [port] [host port]"
+  echo "Usage: $(basename ${0}) [add|list|delete|help] [container] [interface] [port] [host port]"
   exit 1
 }
 
